@@ -1,2 +1,1 @@
-# Calculadora-em-C
-Calculadora em linguagem C
+### Calculadora em linguagem C
